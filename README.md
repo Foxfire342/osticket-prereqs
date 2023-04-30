@@ -28,8 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP 7.3.8
 - VC_redist.x86.exe
 - MySQL 5.5.62
-- osTicket v1.15.8
-- HeidiSQL
+
 
 <h2>Installation Steps</h2>
 
