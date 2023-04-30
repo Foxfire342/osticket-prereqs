@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/SBACQ1B"/>
+<img src= "https://i.imgur.com/RfHgbOe.png" height="80%" width="80%" alt="Virtual Machine Step" />
 </p>
 <p>
 To begin, login into your Microsoft Azure account and create a windows 10 virtual machine(VM) with 2-4 virtual CPUs along with a new resource group.
