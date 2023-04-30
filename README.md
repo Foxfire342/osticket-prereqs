@@ -37,8 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 To begin, login into your Microsoft Azure account and create a windows 10 virtual machine(VM) with 2-4 virtual CPUs along with a new resource group.
-When creating the VM, allow it to create a new Virtual Network(Vnet). You can call your virtual machine name and resource group whatever you would like. Also be sure to choose a region that matches where you are geographically located.
-  
+When creating the VM, allow it to create a new Virtual Network(Vnet)(it should do that automatically). You can call your virtual machine name and resource group whatever you would like. Also be sure to choose a region that matches where you are geographically located.
 </p>
 <br />
 
@@ -53,10 +52,10 @@ forget it because we will be using both later on in this tutorial. Once you fini
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XlcbNbo.png" height="80%" width="80%" alt="Remote into virtual machine"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that your virtual machine has been created the next step is to remote desktop into your virtual machine or if your a mac user you will need to download Microsoft Remote Desktop from the app store and use that to remote into your virtual machine. Be sure to grab the public IP address from your virtual machines page in Azure as you will need it for this step.
 </p>
 <br />
 
