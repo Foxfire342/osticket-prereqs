@@ -22,11 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/Enable llS with CGI
+- PHP Manager for llS
+- Rewrite Module
+- PHP 7.3.8
+- VC_redist.x86.exe
+- MySQL 5.5.62
+- osTicket v1.15.8
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
