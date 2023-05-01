@@ -45,9 +45,8 @@ When creating the VM, allow it to create a new Virtual Network(Vnet)(it should d
 <img src="https://i.imgur.com/FFCEjq3.png" height="80%" width="80%" alt="Virtual Machine Step Two"/>
 </p>
 <p>
-For this tutorial we will be naming the virtual machine Vm-osticket, and we will be using Foxfire342 as the username and Osticketpassword1 as 
-the password but you can use whatever you would like. Please remember to write down your username and password somewhere so that you don't 
-forget it because we will be using both later on in this tutorial. Once you finish filling out the basics tab click review and create.
+For this tutorial we will be naming the virtual machine Vm-osticket, and use whatever username and password you would like. 
+Please remember to write down your username and password somewhere so that you don't forget it because we will be using both later on in this tutorial. Once you finish filling out the basics tab click review and create.
 </p>
 <br />
 
