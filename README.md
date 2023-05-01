@@ -90,7 +90,7 @@ Next download and install the rewrite module.
 <img src="https://i.imgur.com/dRrzi96.png" height="80%" width="80%" alt="Create Folder in C Drive called PHP"/>
 </p>
 <p>
-Next create a new directory in the C Drive and call it PHP. You can get to the C Dribe by going to "This PC" and clicking "Windows (C:)"
+Next create a new directory in the C Drive and call it PHP. You can get to the C Drive by going to "This PC" and clicking "Windows (C:)"
 </p>
 <br />
 
