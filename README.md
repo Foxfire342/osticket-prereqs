@@ -118,7 +118,7 @@ Next download and install MySQL 5.5.62 and select the standard configuration opt
 you can set it to whatever you would like.
 </p>
 <br />
-%
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
