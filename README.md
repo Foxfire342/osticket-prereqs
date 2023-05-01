@@ -54,7 +54,7 @@ Please remember to write down your username and password somewhere so that you d
 <img src="https://i.imgur.com/XlcbNbo.png" height="80%" width="80%" alt="Remote into virtual machine"/>
 </p>
 <p>
-Now that your virtual machine has been created the next step is to remote desktop into your virtual machine or if your a mac user you will need to download Microsoft Remote Desktop from the app store and use that to remote into your virtual machine. Be sure to grab the public IP address from your virtual machines page in Azure as you will need it for this step. Also in order to connect you will need the username and password that you established with your virtual machine.
+Now that your virtual machine has been created the next step is to remote desktop into your virtual machine or if you're a mac user you will need to download Microsoft Remote Desktop from the app store and use that to remote into your virtual machine. Be sure to grab the public IP address from your virtual machines page in Azure as you will need it for this step. Also in order to connect you will need the username and password that you established with your virtual machine.
 </p>
 <br />
 
