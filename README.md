@@ -128,9 +128,12 @@ Next open llS as an admin and register PHP from within IIS. Once this is done, r
 <br />
 
 <p>
-<img src="https://i.imgur.com/0pIqoSz.png" height="40%" width="40%" alt="Download OsTicket"/>
+<img src="https://i.imgur.com/0pIqoSz.png" height="40%" width="40%" alt="Download OsTicket"/> 
+</p>
+<p>
 <img src="https://i.imgur.com/Dp1Mtzu.png" height="40%" width="40%" alt="Rename Folder"/> 
 </p>
+
 <p>
 Download OsTicket v.1.15.8 and extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot
 rename "upload" to "osTicket".
