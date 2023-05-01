@@ -114,8 +114,8 @@ Next download and install VC_redist.x86.exe.
 <img src="https://i.imgur.com/YoF5zR5.png" height="80%" width="80%" alt="Download MySQL 5.5.62"/>
 </p>
 <p>
-Next download and install MySQL 5.5.62 and select the standard configuration option. We will be setting the password to password1 but 
-you can set it to whatever you would like.
+Next download and install MySQL 5.5.62 choose typical install, select the standard configuration option and install as windows service. 
+We will be setting the password to password1 but you can set it to whatever you would like.
 </p>
 <br />
 
