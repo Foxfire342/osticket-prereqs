@@ -103,6 +103,23 @@ Now download PHP 7.3.8 and unzip the contents into the new PHP folder that was c
 <br />
 
 <p>
+<img src="https://i.imgur.com/LV8hW03.png" height="80%" width="80%" alt="Downloading VC_redist"/>
+</p>
+<p>
+Next download and install VC_redist.x86.exe.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YoF5zR5.png" height="80%" width="80%" alt="Download MySQL 5.5.62"/>
+</p>
+<p>
+Next download and install MySQL 5.5.62 and select the standard configuration option. We will be setting the password to password1 but 
+you can set it to whatever you would like.
+</p>
+<br />
+%
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -133,3 +150,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
