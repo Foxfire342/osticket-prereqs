@@ -60,13 +60,29 @@ Now that your virtual machine has been created the next step is to remote deskto
 <br />
 
 <p>
-<img src="https://i.imgur.com/c4n95WM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c4n95WM.png" height="80%" width="80%" alt="Enabling lls in Windows with CGI"/>
 </p>
 <p>
 Now that we have connected to the virtual machine the next step is to enable llS in Windows with CGI. We do this by going into the control panel,
 select programs and then "select turn windows featues on or off". Then select "Internet Information Services" and then "World Wide Web Services"
 and then "Application Development Features" and check the box for CGI like shown above. Click ok and the changes will be applied. This step allows 
 us to install PHP manager later on so its important that you don't skip it.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zmsSSdL.png" height="80%" width="80%" alt="Downloaing PHP Manager"/>
+</p>
+<p>
+Next download PHP manager for llS Version 1.5.0 and select I agree in the license agreement section.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
