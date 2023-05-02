@@ -49,7 +49,8 @@ ___
 For this tutorial we will be naming the virtual machine Vm-osticket, and use whatever username and password you would like. 
 Please remember to write down your username and password somewhere so that you don't forget it because we will be using both later on in this tutorial. Once you finish filling out the basics tab click review and create.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/XlcbNbo.png" height="80%" width="80%" alt="Remote into virtual machine"/>
@@ -57,7 +58,8 @@ Please remember to write down your username and password somewhere so that you d
 <p>
 Now that your virtual machine has been created the next step is to remote desktop into your virtual machine or if you're a mac user you will need to download Microsoft Remote Desktop from the app store and use that to remote into your virtual machine. Be sure to grab the public IP address from your virtual machines page in Azure as you will need it for this step. Also in order to connect you will need the username and password that you established with your virtual machine.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/c4n95WM.png" height="80%" width="80%" alt="Enabling IISs in Windows with CGI"/>
@@ -68,7 +70,8 @@ select programs and then "select turn windows featues on or off". Then select "I
 and then "Application Development Features" and check the box for CGI like shown above. Click ok and the changes will be applied. This step allows 
 us to install PHP manager later on so its important that you don't skip it.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/zmsSSdL.png" height="80%" width="80%" alt="Downloaing PHP Manager"/>
@@ -76,7 +79,8 @@ us to install PHP manager later on so its important that you don't skip it.
 <p>
 Next download PHP manager for llS Version 1.5.0 and select I agree in the license agreement section.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/HvlpzL1.png" height="80%" width="80%" alt="Downloading Rewrite Module"/>
@@ -84,7 +88,8 @@ Next download PHP manager for llS Version 1.5.0 and select I agree in the licens
 <p>
 Next download and install the rewrite module. 
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/dRrzi96.png" height="80%" width="80%" alt="Create Folder in C Drive called PHP"/>
@@ -92,7 +97,8 @@ Next download and install the rewrite module.
 <p>
 Next create a new directory in the C Drive and call it PHP. You can get to the C Drive by going to "This PC" and clicking "Windows (C:)"
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/1TcWQg3.png" height="80%" width="80%" alt="Downloading PHP 7.3.8"/>
@@ -100,7 +106,8 @@ Next create a new directory in the C Drive and call it PHP. You can get to the C
 <p>
 Now download PHP 7.3.8 and unzip the contents into the new PHP folder that was created in the C Drive.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/LV8hW03.png" height="80%" width="80%" alt="Downloading VC_redist"/>
@@ -108,7 +115,8 @@ Now download PHP 7.3.8 and unzip the contents into the new PHP folder that was c
 <p>
 Next download and install VC_redist.x86.exe.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/YoF5zR5.png" height="80%" width="80%" alt="Download MySQL 5.5.62"/>
@@ -117,7 +125,8 @@ Next download and install VC_redist.x86.exe.
 Next download and install MySQL 5.5.62 choose typical install, select the standard configuration option and install as windows service. 
 We will be setting the password to password1 but you can set it to whatever you would like.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/96vuVtc.png" height="80%" width="80%" alt="Register PHP"/>
@@ -125,7 +134,8 @@ We will be setting the password to password1 but you can set it to whatever you 
 <p>
 Next open llS as an admin and register PHP from within IIS. Once this is done, restart IIS.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/0pIqoSz.png" height="40%" width="40%" alt="Download OsTicket"/> 
@@ -138,7 +148,9 @@ Next open llS as an admin and register PHP from within IIS. Once this is done, r
 Download OsTicket v.1.15.8 and extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot
 rename "upload" to "osTicket".
 </p>
-<br />
+
+___
+
 
 <p>
 <img src="https://i.imgur.com/CynK0ed.png" height="80%" width="80%" alt="Enable Extensions PartOne"/>
@@ -147,7 +159,8 @@ rename "upload" to "osTicket".
 Next restart IIS and then inside of IIS go to sites, then select "default website" and then select OsTicket and click "Browse *:80" 
 on the right. You should get the screen above and you will notice some extensions haven't been enabled yet.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -155,7 +168,8 @@ on the right. You should get the screen above and you will notice some extension
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
-<br />
+
+___
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -163,4 +177,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
-<br />
+
+___
