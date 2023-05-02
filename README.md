@@ -171,6 +171,19 @@ All three extensions that need to be enabled will be back in IIS. Once in IIS we
 "Default Web Site" and then click osTicket. In the middle where it says OsTicket Home, select the PHP Manager. Once your inside the
 PHP Manager go down to PHP Extensions and select "enable or disable an extension". Then enable php_imap.dll, php_intl.dll and php_opcache.dll
 from the list. Once the extensions are enabled be sure to refresh your osTicket Installer page to confirm that the changes went into effect.
+You should have green checks for everything except the last two extensions on the list.
+</p>
+
+___
+
+<p>
+<img src="https://i.imgur.com/cpMd0sR.png" height="80%" width="80%" alt="Rename File"/>
+</p>
+<p>
+Next we will have to rename the ost-sampleconfig.php in the OsTicket folder to ost-config.php. This can
+be done by going into the C Drive and select the inetpub folder and then clicking "wwwroot", and then selecting
+"osTicket". Once in the osTicket folder click the "include" folder and then find ost-sampleconfig.php file and
+rename it.
 </p>
 
 ___
@@ -179,16 +192,7 @@ ___
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-
-___
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After renaming the file
 </p>
 
 ___
