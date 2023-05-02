@@ -157,7 +157,20 @@ ___
 </p>
 <p>
 Next restart IIS and then inside of IIS go to sites, then select "default website" and then select OsTicket and click "Browse *:80" 
-on the right. You should get the screen above and you will notice some extensions haven't been enabled yet.
+on the right. You should get the screen above and you will notice some extensions haven't been enabled yet. In order to use all of the 
+features in OsTicket we have a few more extensions to enable (minus APCu and Zend OPcache extensions).
+</p>
+
+___
+
+<p>
+<img src="https://i.imgur.com/IkQkPg7.png" height="80%" width="80%" alt="Enable Extensions PartTwo"/>
+</p>
+<p>
+All three extensions that need to be enabled will be back in IIS. Once in IIS we will need to click "Sites" on the left, then 
+"Default Web Site" and then click osTicket. In the middle where it says OsTicket Home, select the PHP Manager. Once your inside the
+PHP Manager go down to PHP Extensions and select "enable or disable an extension". Then enable php_imap.dll, php_intl.dll and php_opcache.dll
+from the list. Once the extensions are enabled be sure to refresh your osTicket Installer page to confirm that the changes went into effect.
 </p>
 
 ___
@@ -179,3 +192,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 ___
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+___
+
