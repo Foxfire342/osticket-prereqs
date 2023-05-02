@@ -237,19 +237,26 @@ name that you established in Heidi as well as the same username and password. On
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ObSRhf.png" height="80%" width="80%" alt="OsTicket Installed"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congratulations, you have fully installed osTicket!! The only thing left next is to perform some brief clean up and then we can head to osTicket
+login page.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fR6luZX.png" height="40%" width="40%" alt="Delete setup file"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/EDHQAtQ.png" height="40%" width="40%" alt="Update Permissions"/>
+</p>
+<p>
+To clean things up we will need to return to the osTicket folder that is within the wwwroot folder in the C Drive from earlier. Once in
+the folder delete the setup folder as shown above. And then lastly return to the ost-config.php file by clicking the include folder and
+go back into properties and then security and then advanced and then change the permissions to "Read Only as shown above and then click ok
+and apply.
 </p>
 
 ___
