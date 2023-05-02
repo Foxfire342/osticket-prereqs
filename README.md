@@ -214,6 +214,19 @@ Now lets go back to the osTicket Installer page and click continue to finish set
 ___
 
 <p>
+<img src="https://i.imgur.com/dGBAAvh.png" height="40%" width="40%" alt="Download HeidiSQL"/>
+</p>
+<p>
+<img src="https://i.imgur.com/O8mVl7Q.png" height="40%" width="40%" alt="Download HeidiSQL"/>
+</p>
+<p>
+To complete the osTicket installation we will be downloading HeidiSQL as shown above. By downloading HeidiSQL we will be able to connect to the SQL database inside of osTicket. After downloading HeidiSQL we will open it up and create a new connection to the database by clicking new in the bottome left hand corner of the window. You can choose any name that you would like for user but use the same password that you used for MySQL 5.5.62. Once you fill thos two fields out click "open". Next in the same Heidi window right click Unnamed and create a new database.
+We will name it osticket for this example but you can name it whatever you would like.
+</p>
+
+___
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
