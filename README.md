@@ -198,16 +198,17 @@ ___
 After renaming the file, we will need to right-click the file and go into properties to enable access to the file for everyone. 
 Once in properties go to the securities tab and select advanced. Once in the advanced window, click disable interitance and remove 
 all inherited permissions. Then click "Add" and then "Select a principal" and then type in everyone in the white box, press check names
-and then press ok. Then checkbox full control to allow other users to access this file and select ok.
+and then press ok. Then checkbox full control to allow other users to access this file and select ok. And then in the next window select
+apply and ok to solidify things.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3dke3V1.png" height="80%" width="80%" alt="Setting Up OsTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now lets go back to the osTicket Installer page and click continue to finish setting up OsTicket. On the next page it will ask for a Helpdesk Name, default email and admin user information. Feel free to put whatever you would like in here but keep track of your username, password and default email as it will be needed later on. As for the Database Settings section we will leave this blank for now because we will need to download HeidiSQL first to fill this section out before pressing install now.
 </p>
 
 ___
