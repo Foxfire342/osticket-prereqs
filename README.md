@@ -39,7 +39,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 To begin, login into your Microsoft Azure account and create a windows 10 virtual machine(VM) with 2-4 virtual CPUs along with a new resource group.
 When creating the VM, allow it to create a new Virtual Network(Vnet)(it should do that automatically). You can call your virtual machine name and resource group whatever you would like. Also be sure to choose a region that matches where you are geographically located.
 </p>
-<br />
+
+___ 
 
 <p>
 <img src="https://i.imgur.com/FFCEjq3.png" height="80%" width="80%" alt="Virtual Machine Step Two"/>
