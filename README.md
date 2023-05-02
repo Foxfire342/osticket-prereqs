@@ -205,7 +205,7 @@ apply and ok to solidify things.
 ___
 
 <p>
-<img src="https://i.imgur.com/3dke3V1.png" height="80%" width="80%" alt="Setting Up OsTicket"/>
+<img src="https://i.imgur.com/3dke3V1.png" height="80%" width="80%" alt="Setting Up OsTicket Part1"/>
 </p>
 <p>
 Now lets go back to the osTicket Installer page and click continue to finish setting up OsTicket. On the next page it will ask for a Helpdesk Name, default email and admin user information. Feel free to put whatever you would like in here but keep track of your username, password and default email as it will be needed later on. As for the Database Settings section we will leave this blank for now because we will need to download HeidiSQL first to fill this section out before pressing install now.
@@ -222,6 +222,16 @@ ___
 <p>
 To complete the osTicket installation we will be downloading HeidiSQL as shown above. By downloading HeidiSQL we will be able to connect to the SQL database inside of osTicket. After downloading HeidiSQL we will open it up and create a new connection to the database by clicking new in the bottome left hand corner of the window. You can choose any name that you would like for user but use the same password that you used for MySQL 5.5.62. Once you fill thos two fields out click "open". Next in the same Heidi window right click Unnamed and create a new database.
 We will name it osticket for this example but you can name it whatever you would like.
+</p>
+
+___
+
+<p>
+<img src="https://i.imgur.com/dnyU5NA.png" height="80%" width="80%" alt="Setting Up OsTicket Part2"/>
+</p>
+<p>
+Now that the osticket database is set up in Heidi we can now return to the osTicket Installer page. Under Database Settings use the same database
+name that you established in Heidi as well as the same username and password. Once you fill this out, hit install now.
 </p>
 
 ___
