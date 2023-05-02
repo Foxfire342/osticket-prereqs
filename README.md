@@ -189,13 +189,16 @@ rename it.
 ___
 
 <p>
-<img src="https://i.imgur.com/1pR1ZWy.png" height="80%" width="80%" alt="Enable Permissions"/>
+<img src="https://i.imgur.com/1pR1ZWy.png" height="40%" width="40%" alt="Enable Permissions"/>
+</p>
+<p>
+<img src="https://i.imgur.com/fzUiVZ9.png" height="40%" width="40%" alt="Enable Permissions"/>
 </p>
 <p>
 After renaming the file, we will need to right-click the file and go into properties to enable access to the file for everyone. 
 Once in properties go to the securities tab and select advanced. Once in the advanced window, click disable interitance and remove 
 all inherited permissions. Then click "Add" and then "Select a principal" and then type in everyone in the white box, press check names
-and then press ok.
+and then press ok. Then checkbox full control to allow other users to access this file and select ok.
 </p>
 
 ___
