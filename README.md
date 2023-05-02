@@ -250,22 +250,22 @@ ___
 <img src="https://i.imgur.com/fR6luZX.png" height="40%" width="40%" alt="Delete setup file"/>
 </p>
 <p>
-<img src="https://i.imgur.com/EDHQAtQ.png" height="40%" width="40%" alt="Update Permissions"/>
+<img src="https://i.imgur.com/Cax9Mnq.png" height="40%" width="40%" alt="Update Permissions"/>
 </p>
 <p>
 To clean things up we will need to return to the osTicket folder that is within the wwwroot folder in the C Drive from earlier. Once in
 the folder delete the setup folder as shown above. And then lastly return to the ost-config.php file by clicking the include folder and
-go back into properties and then security and then advanced and then change the permissions to "Read Only as shown above and then click ok
-and apply.
+go back into properties and then security and then advanced and then change the permissions to "Read Only and Read & Execute" as shown 
+above and then click ok and apply.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k9yYRzW.png" height="80%" width="80%" alt="Admin Login"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Your installation of osTicket is now complete!! Head over to your admin login page at http://localhost/osTicket/scp/login.php and proceed to login!
 </p>
 
 ___
