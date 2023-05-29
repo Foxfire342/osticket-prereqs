@@ -152,7 +152,7 @@ ___
 <img src="https://i.imgur.com/CynK0ed.png" height="80%" width="80%" alt="Enable Extensions PartOne"/>
 </p>
 <p>
-Next restart IIS and then inside of IIS go to sites, then select "default website" and then select OsTicket and click "Browse *:80" 
+Next restart IIS and then inside of IIS go to sites, then select "default website" and then select osTicket and click "Browse *:80" 
 on the right. You should get the screen above and you will notice some extensions haven't been enabled yet. In order to use all of the 
 features in OsTicket we have a few more extensions to enable (minus APCu and Zend OPcache extensions).
 </p>
@@ -164,7 +164,7 @@ ___
 </p>
 <p>
 All three extensions that need to be enabled will be back in IIS. Once in IIS we will need to click "Sites" on the left, then 
-"Default Web Site" and then click osTicket. In the middle where it says OsTicket Home, select the PHP Manager. Once your inside the
+"Default Web Site" and then click osTicket. In the middle where it says osTicket Home, select the PHP Manager. Once your inside the
 PHP Manager go down to PHP Extensions and select "enable or disable an extension". Then enable php_imap.dll, php_intl.dll and php_opcache.dll
 from the list. Once the extensions are enabled be sure to refresh your osTicket Installer page to confirm that the changes went into effect.
 You should have green checks for everything except the last two extensions on the list.
@@ -176,7 +176,7 @@ ___
 <img src="https://i.imgur.com/cpMd0sR.png" height="80%" width="80%" alt="Rename File"/>
 </p>
 <p>
-Next we will have to rename the ost-sampleconfig.php in the OsTicket folder to ost-config.php. This can
+Next we will have to rename the ost-sampleconfig.php in the osTicket folder to ost-config.php. This can
 be done by going into the C Drive and select the inetpub folder and then clicking "wwwroot", and then selecting
 "osTicket". Once in the osTicket folder click the "include" folder and then find ost-sampleconfig.php file and
 rename it.
@@ -204,7 +204,7 @@ ___
 <img src="https://i.imgur.com/3dke3V1.png" height="80%" width="80%" alt="Setting Up OsTicket Part1"/>
 </p>
 <p>
-Now lets go back to the osTicket Installer page and click continue to finish setting up OsTicket. On the next page it will ask for a Helpdesk Name, default email and admin user information. Feel free to put whatever you would like in here but keep track of your username, password and default email as it will be needed later on. As for the Database Settings section we will leave this blank for now because we will need to download HeidiSQL first to fill this section out before pressing install now.
+Now lets go back to the osTicket Installer page and click continue to finish setting up osTicket. On the next page it will ask for a Helpdesk Name, default email and admin user information. Feel free to put whatever you would like in here but keep track of your username, password and default email as it will be needed later on. As for the Database Settings section we will leave this blank for now because we will need to download HeidiSQL first to fill this section out before pressing install now.
 </p>
 
 ___
